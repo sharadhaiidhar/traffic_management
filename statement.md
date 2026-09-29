@@ -1,12 +1,9 @@
 
-### `statement.md`
+ `statement.md`
 
-```markdown
-# Project Statement - Smart Traffic Management System
-
+# Project Statement - Bhopal Traffic Management
 ## Problem Statement
 Traditional traffic lights run on hardcoded timers regardless of actual road conditions. This causes unnecessary waiting times when empty lanes get green lights while heavily packed lanes stay stuck on red. Additionally, emergency vehicles like ambulances often get delayed behind regular traffic queues. This project aims to simulate a responsive junction system where signal time adjusts dynamically based on vehicle density and emergency presence.
-
 ## Scope of the Project
 - Controls a single 4-way junction covering North, South, East, and West roads.
 - Accepts vehicle queue inputs per road directly through the command line.
