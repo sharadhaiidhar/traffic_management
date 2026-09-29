@@ -1,6 +1,4 @@
 # main.py
-# CLI Controller
-
 from config import ROADS
 from vehicles import live_traffic, update_density, process_road
 from reports import show_live_status, show_history
