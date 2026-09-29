@@ -1,4 +1,4 @@
-# Smart Traffic Light Controller
+# BHOPAL TRAFFIC AND RAILWAY MANAGEMENT
 
 This is a simple console project to manage traffic signals at a standard 4-way intersection (North, South, East, and West). Instead of using fixed timers that make cars wait on empty roads, this program checks how many cars are queued up and decides how many seconds of green light to give. It also allows emergency vehicles to skip the normal wait.
 
