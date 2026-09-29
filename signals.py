@@ -1,5 +1,4 @@
 # signals.py
-# Signal calculation logic
 from config import DEFAULT_GREEN_TIME, MAX_GREEN_TIME
 def calculate_signal_time(vehicle_count, has_emergency):
      
