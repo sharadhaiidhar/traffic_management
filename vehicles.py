@@ -1,6 +1,4 @@
 # vehicles.py
-# Tracks live counts on each road
-
 from config import ROADS
 from storage import append_log
 from signals import calculate_signal_time
